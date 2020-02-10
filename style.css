@@ -17,6 +17,9 @@
     font-size:1rem;
     background-color: #d85b3d;
   }
+ .header__title{
+    font-family: Arial, Helvetica, sans-serif;
+  }
   .article{
     display: inline-block;
     float: left;
@@ -129,5 +132,5 @@ section{
 }
 .nav__links{
 padding-left:1200px ;
-border-color: cyan;
+color:#cb3724;
 }
